@@ -1,4 +1,4 @@
-# Vanila JS TIC-TAC-TOC
+# Vanila JS Tic-Tac-Toe
 Best UI
 ###
 It is not 100% Complete. it's only for best ui
